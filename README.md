@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm working currently on plugins for the game [Endless Sky](https://github.com/endless-sky/endless-sky).
+
+
+![zuckung's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuckung&show_icons=true&theme=holi&rank_icon=github)
+
+
 <!--
 **zuckung/zuckung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
