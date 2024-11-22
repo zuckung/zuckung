@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm currently working on plugins for the game [Endless Sky](https://github.com/endless-sky/endless-sky).
-
-
+I'm currently working on plugins and python scripts for the game [Endless Sky](https://github.com/endless-sky/endless-sky).<br>
+<br>
+If you want to tell me something, feel free to post in [https://github.com/zuckung/zuckung/discussions](https://github.com/zuckung/zuckung/discussions).<br>
+<br>
+<br>
 ![zuckung's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuckung&show_icons=true&theme=holi&rank_icon=github)
 
 
